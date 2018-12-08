@@ -6,7 +6,8 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
 
-
+        Chart1.ChartAreas(0).AxisX.Minimum = 0
+        Chart1.ChartAreas(0).AxisX.Maximum = 100
 
 
     End Sub
