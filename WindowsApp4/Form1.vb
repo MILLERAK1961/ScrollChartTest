@@ -1,6 +1,6 @@
 ﻿Public Class Form1
 
-    Const MaxPoints = 100
+    Const MaxPoints = 50
 
     Dim MasterCount As Integer = 0
 
